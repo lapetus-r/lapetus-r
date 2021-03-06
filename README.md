@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat&logo=elastic-stack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgresQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat&logo=apache-hive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Kylin-F09D13?style=flat&logo=apache-kylin&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
 </p>
 
