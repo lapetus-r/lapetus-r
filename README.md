@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat&logo=apache-hive&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Kylin-F09D13?style=flat&logo=apache-kylin&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
 </p>
