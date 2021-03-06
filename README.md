@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lapetus-r/lapetus-r">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lapetus-r&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/lapetus-r/lapetus-r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapetus-r&layout=compact" />
 </a>
