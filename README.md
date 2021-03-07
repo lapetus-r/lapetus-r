@@ -17,7 +17,7 @@
 </p>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lapetus-r&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lapetus-r&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
