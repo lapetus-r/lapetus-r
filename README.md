@@ -17,9 +17,9 @@
 </p>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lapetus-r&show_icons=true&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lapetus-r&show_icons=true" />
 </a>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapetus-r&layout=compact&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapetus-r&layout=compact" />
 </a>
