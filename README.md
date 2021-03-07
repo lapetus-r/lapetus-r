@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapetus-r&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapetus-r&layout=compact&theme=chartreuse-dark" />
 </a>
