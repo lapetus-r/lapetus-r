@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 </p>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
