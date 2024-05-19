@@ -3,8 +3,8 @@
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 </p>
 
 <a href="https://github.com/lapetus-r/lapetus-r">
