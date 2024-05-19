@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+    <img srg="https://img.shields.io/badge/Rust-orange?style=flat&logo=scala&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
